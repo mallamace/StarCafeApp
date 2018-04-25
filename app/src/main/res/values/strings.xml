@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Star Cafe App</string>
+    <string name="addresslab">Address:</string>
+    <string name="addresstxt">2001 Gateway Pl \nSte 151 E \nSan Jose, CA 95110</string>
+    <string name="hourslab">Hours:</string>
+    <string name="hourstxt">Mon -  Fri \n7am - 3pm</string>
+    <string name="phonelab">Phone: </string>
+    <string name="phonetxt"><u>(408) 453-8933</u></string>
+    <string name="aboutlab">About Star Cafe:</string>
+    <string name="abouttxt">Star Cafe is located in the Gateway Place office complex close to San Jose Airport and across from the Doubletree is convenient. \n\nThe menu and specials feature a great mix of Korean and typical deli sandwich fare.  The specials you can expect from time-to-time include: Spicy Korean Pork sandwich, Salmon Teriyaki Burger and Poor Boy with lots of cold cuts and cheeses! Atypical regular menu items include Bulgogi Korean beef, Chicken Teriyaki, and Spicy Chicken with rice and salad.</string>
+    <string name="callbtn">Call Star Cafe</string>
+    <string name="phonenum">+14084538933</string>
+</resources>
