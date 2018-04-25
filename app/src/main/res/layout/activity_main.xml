@@ -117,7 +117,7 @@
                     android:onClick="callNumber"
                     android:text="@string/callbtn"
                     android:textColor="#ffffff"
-                    android:textSize="25dp" />
+                    android:textSize="25sp" />
 
             </LinearLayout>
         </ScrollView>
